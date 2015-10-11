@@ -23,6 +23,7 @@ table .left {
 table .right {
     text-align:     left;
     vertical-align: text-top;
+    width:          500px;
 }
 
 p {
